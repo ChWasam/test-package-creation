@@ -1,0 +1,9 @@
+Metadata-Version: 2.2
+Name: SamplePRoject
+Version: 0.0.1
+Author: Chaudhry
+Author-email: ch.wasam @gmail.com
+Requires-Dist: langchain
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
